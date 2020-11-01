@@ -16,4 +16,4 @@ pip install numpy
 </p>
 
 ### Developed by
-Ashish ku. Behera [I'm an inline-style link with title](https://github.com/ashish-max "Github Id")
+ [Ashish ku. Behera](https://github.com/ashish-max "Github Id")
