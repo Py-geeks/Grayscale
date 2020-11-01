@@ -9,7 +9,7 @@ gray = cv2.cvtColor(img , cv2.COLOR_BGR2GRAY)
 #completion message
 print('Image Grayscaled.')
 
-#comparing original vs resized
+#comparing Original vs Grayscale
 cv2.imshow('ORIGINAL',img)
 cv2.imshow('GRAYSCALE',gray)
 cv2.waitKey(0)
