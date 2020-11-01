@@ -9,7 +9,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install cv2 and
 pip install cv2
 pip install numpy
 ```
-## images
+## Images
 <p align="center">
+	<img src="/cat.png" alt="Logo", height=200px,width=200px>
 	<img src="/cat.png" alt="Logo", height=200px,width=200px>
 </p>
