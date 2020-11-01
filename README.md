@@ -41,8 +41,8 @@ cv2.destroyAllWindows()
 
 ## Images
 <p align="center">
-	<img src="/cat.png" alt="Logo", height=250px,width=30px>
-	<img src="/cat.png" alt="Logo", height=25px,width=30px>
+	<img src="/cat.png" alt="Logo", height=250px,width=350px>
+	<img src="/cat.png" alt="Logo", height=250px,width=350px>
 </p>
 
 ### Developed by
