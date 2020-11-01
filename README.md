@@ -1,7 +1,7 @@
 # Grayscale
 Grayscale filter is a widely used and popular filter used by youngsters. Lets try making a filter of our own through Image Processing.
 
-### Tools and Languages:
+## Tools and Languages:
 <img align="left" alt="OpenCV" width="26px" src="https://github.com/ankush0939/explore/blob/master/topics/opencv/opencv.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/ankush0939/explore/blob/master/topics/python/python.png" />
 <img align="left" alt="pip" width="26px" height="34px" src="https://github.com/ankush0939/explore/blob/master/topics/pip/pip.png" />
